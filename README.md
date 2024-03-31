@@ -20,7 +20,7 @@ README.md: Documentation file providing information about the project, how to ru
 ## How to Run:
 Run the following command:
 ```bash
-python tictactoe.py
+python game.py
 ```
 The game window will appear, allowing you to play against the opponent.
 
